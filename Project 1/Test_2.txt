@@ -1,0 +1,25 @@
+insert with priority, A, 84, Arrival at time 84
+get next
+insert with priority, A, 87, Arrival at time 87
+length
+insert with priority, A, 78, Arrival at time 78
+insert with priority, A, 16, Arrival at time 16
+peek
+insert with priority, A, 94, Arrival at time 94
+insert with priority, A, 36, Arrival at time 36
+get next
+delete, A, 36, Arrival at time 36
+get next
+peek
+length
+insert with priority, D, 111, Departure at time 111
+insert with priority, D, 97, Departure at time 97
+delete, D, 97, Departure at time 97
+insert with priority, D, 127, Departure at time 127
+get next
+get next
+get next
+get next
+peek
+length
+get next

@@ -1,0 +1,16 @@
+insert with priority, A, 7, Arrival at time 7
+insert with priority, A, 6, Arrival at time 6
+insert with priority, A, 9, Arrival at time 9
+insert with priority, A, 3, Arrival at time 3
+insert with priority, A, 1, Arrival at time 1
+insert with priority, A, 15, Arrival at time 15
+insert with priority, A, 10, Arrival at time 10
+insert with priority, A, 12, Arrival at time 12
+get next
+get next
+get next
+get next
+get next
+get next
+get next
+get next

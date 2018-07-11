@@ -1,0 +1,11 @@
+insert with priority, A, 3, Arrival at time 3
+insert with priority, D, 9, Departure at time 9
+get next 
+peek 
+insert with priority, A, 8, Arrival at time 8
+insert with priority, D, 13, Departure at time 13
+get next 
+length 
+insert with priority, A, 11, Arrival at time 11
+get next 
+delete, A, 11, Arrival at time 11
